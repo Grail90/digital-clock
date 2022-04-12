@@ -1,0 +1,28 @@
+.clock{
+
+position: relative;
+
+font-family: 'Orbitron' ;
+
+font-size: 60px;
+
+text-align: center;
+
+color: #3535b9;
+
+top: 70px;
+background-color: black;
+
+align-self: end;
+}
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('Orbitron/static/Orbitron-Bold.ttf');
+}
+
+body{
+
+background-color: darkgrey;
+
+}
